@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <string.h>
 
-#define MAX_SIZE 10
+#define MAX_SIZE 100
 
 typedef struct {
     char data[MAX_SIZE];
