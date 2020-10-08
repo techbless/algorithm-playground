@@ -7,15 +7,15 @@
 
 ## 푼 문제
 
-|  문제 이름  |  난이도  |  메모  |  풀이  |  출처  |
+|  문제 이름  |  난이도  |  메모  |  풀이  |  문제 출처  |
 |:----------:|:--------:|:-----:|:------:|:------:|
-| ATM | 😊 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11399.md) | [출처](https://www.acmicpc.net/problem/11399)
-| 연료 채우기 | 🤔 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1826.md) | [출처](https://www.acmicpc.net/problem/1826)
-| 로프 | 😊 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2217.md) | [출처](https://www.acmicpc.net/problem/2217)
-| 전화번호 목록 | 🤔 | Trie(PrefixTree) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5052.md) | [출처](https://www.acmicpc.net/problem/5052)
-| 포도주 시식 | 🤔 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2156.md) | [출처](https://www.acmicpc.net/problem/2156)
-| 알약 | 😢 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ4811.md) | [출처](https://www.acmicpc.net/problem/4811)
-
+| ATM | 😊 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11399.md) | [문제](https://www.acmicpc.net/problem/11399)
+| 연료 채우기 | 🤔 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1826.md) | [문제](https://www.acmicpc.net/problem/1826)
+| 로프 | 😊 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2217.md) | [문제](https://www.acmicpc.net/problem/2217)
+| 전화번호 목록 | 🤔 | Trie(PrefixTree) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5052.md) | [문제](https://www.acmicpc.net/problem/5052)
+| 포도주 시식 | 🤔 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2156.md) | [문제](https://www.acmicpc.net/problem/2156)
+| 알약 | 😢 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ4811.md) | [문제](https://www.acmicpc.net/problem/4811)
+| 쇠파이프 | 😊 | 자료구조(스택) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10799.md) | [문제](https://www.acmicpc.net/problem/10799)
 
 ## 자료구조 & 알고리즘
 
