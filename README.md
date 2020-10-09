@@ -16,6 +16,7 @@
 | 포도주 시식 | 🤔 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2156.md) | [문제](https://www.acmicpc.net/problem/2156)
 | 알약 | 😢 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ4811.md) | [문제](https://www.acmicpc.net/problem/4811)
 | 쇠막대기 | 😊 | 자료구조(스택) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10799.md) | [문제](https://www.acmicpc.net/problem/10799)
+| 나무 자르기 | 😊 | 이진 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2805.md) | [문제](https://www.acmicpc.net/problem/2805)
 
 ## 자료구조 & 알고리즘
 
