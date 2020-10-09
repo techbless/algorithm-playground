@@ -1,23 +1,23 @@
 # 알고리즘 문제 풀이 정리
 
 ## 난이도 정의
-* 어려움 😢
-* 보통 🤔
-* 쉬움 😊
+* 어려움 🟥
+* 보통 🟨
+* 쉬움 🟩
 
 ## 푼 문제
 
 |  문제 이름  |  난이도  |  메모  |  풀이  |  문제 출처  |
 |:----------:|:--------:|:-----:|:------:|:------:|
-| ATM | 😊 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11399.md) | [문제](https://www.acmicpc.net/problem/11399)
-| 연료 채우기 | 🤔 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1826.md) | [문제](https://www.acmicpc.net/problem/1826)
-| 로프 | 😊 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2217.md) | [문제](https://www.acmicpc.net/problem/2217)
-| 전화번호 목록 | 🤔 | Trie(PrefixTree) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5052.md) | [문제](https://www.acmicpc.net/problem/5052)
-| 포도주 시식 | 🤔 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2156.md) | [문제](https://www.acmicpc.net/problem/2156)
-| 알약 | 😢 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ4811.md) | [문제](https://www.acmicpc.net/problem/4811)
-| 쇠막대기 | 😊 | 자료구조(스택) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10799.md) | [문제](https://www.acmicpc.net/problem/10799)
-| 나무 자르기 | 😊 | 이진 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2805.md) | [문제](https://www.acmicpc.net/problem/2805)
-| 강의실 배정 | 😊 | 그리디 알고리즘, 자료구조(우선순위 큐) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11000.md) | [문제](https://www.acmicpc.net/problem/11000)
+| ATM | 🟩 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11399.md) | [문제](https://www.acmicpc.net/problem/11399)
+| 연료 채우기 | 🟨 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1826.md) | [문제](https://www.acmicpc.net/problem/1826)
+| 로프 | 🟩 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2217.md) | [문제](https://www.acmicpc.net/problem/2217)
+| 전화번호 목록 | 🟨 | Trie(PrefixTree) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5052.md) | [문제](https://www.acmicpc.net/problem/5052)
+| 포도주 시식 | 🟨 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2156.md) | [문제](https://www.acmicpc.net/problem/2156)
+| 알약 | 🟥 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ4811.md) | [문제](https://www.acmicpc.net/problem/4811)
+| 쇠막대기 | 🟩 | 자료구조(스택) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10799.md) | [문제](https://www.acmicpc.net/problem/10799)
+| 나무 자르기 | 🟩 | 이진 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2805.md) | [문제](https://www.acmicpc.net/problem/2805)
+| 강의실 배정 | 🟩 | 그리디 알고리즘, 자료구조(우선순위 큐) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11000.md) | [문제](https://www.acmicpc.net/problem/11000)
 
 ## 자료구조 & 알고리즘
 
