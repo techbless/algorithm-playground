@@ -18,6 +18,7 @@
 | 쇠막대기 | 🟩 | 자료구조(스택) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10799.md) | [문제](https://www.acmicpc.net/problem/10799)
 | 나무 자르기 | 🟩 | 이진 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2805.md) | [문제](https://www.acmicpc.net/problem/2805)
 | 강의실 배정 | 🟩 | 그리디 알고리즘, 자료구조(우선순위 큐) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11000.md) | [문제](https://www.acmicpc.net/problem/11000)
+| 최소 스패닝 트리 | 🟨 | Kruskal 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1197.md) | [문제](https://www.acmicpc.net/problem/1197)
 
 ## 자료구조 & 알고리즘
 
