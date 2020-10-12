@@ -20,7 +20,7 @@
 | 강의실 배정 | 🟩 | 그리디 알고리즘, 자료구조(우선순위 큐) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11000.md) | [문제](https://www.acmicpc.net/problem/11000)
 | 최소 스패닝 트리 | 🟨 | Kruskal 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1197.md) | [문제](https://www.acmicpc.net/problem/1197)
 | 숫자 정사각형 | 🟩 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1051.md) | [문제](https://www.acmicpc.net/problem/1051)
-| 파스타 | 🟥 | 다이나믹 프로그래밍 | [C++](https://www.acmicpc.net/problem/5546) | [문제](https://www.acmicpc.net/problem/5546) |
+| 파스타 | 🟥 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5546.md) | [문제](https://www.acmicpc.net/problem/5546) |
 
 ## 자료구조 & 알고리즘
 
