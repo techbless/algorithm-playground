@@ -22,6 +22,8 @@
 | 숫자 정사각형 | 🟩 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1051.md) | [문제](https://www.acmicpc.net/problem/1051)
 | 파스타 | 🟥 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5546.md) | [문제](https://www.acmicpc.net/problem/5546) |
 | 리모컨 | 🟨 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1107.md) | [문제](https://www.acmicpc.net/problem/1107)
+| 이중 우선순위 큐 | 🟩 | 자료구조(MULTI SET) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ7662.md) | [문제](https://www.acmicpc.net/problem/7662) |
+
 
 ## 자료구조 & 알고리즘
 
