@@ -23,6 +23,7 @@
 | 파스타 | 🟥 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5546.md) | [문제](https://www.acmicpc.net/problem/5546) |
 | 리모컨 | 🟨 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1107.md) | [문제](https://www.acmicpc.net/problem/1107)
 | 이중 우선순위 큐 | 🟩 | 자료구조(MULTI SET) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ7662.md) | [문제](https://www.acmicpc.net/problem/7662) |
+| 1로 만들기 | 🟩 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1463.md) | [문제](https://www.acmicpc.net/problem/1463) |
 
 
 ## 자료구조 & 알고리즘
@@ -50,8 +51,3 @@
 | BFS with List | [C언어](https://github.com/techbless/algorithm-playground/blob/master/Algorithm/BFS_LIST.c) |
 | 허프만 코드 | [C언어](https://github.com/techbless/algorithm-playground/blob/master/Algorithm/huffman.c) |
 | 다익스트라 | [C언어](https://github.com/techbless/algorithm-playground/blob/master/Algorithm/Dijkstra.c) |
-
-
-
-
-
