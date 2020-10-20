@@ -52,3 +52,4 @@
 | 허프만 코드 | [C언어](https://github.com/techbless/algorithm-playground/blob/master/Algorithm/huffman.c) |
 | 다익스트라 | [C언어](https://github.com/techbless/algorithm-playground/blob/master/Algorithm/Dijkstra.c) |
 | Floyd | [C언어](https://github.com/techbless/algorithm-playground/blob/master/Algorithm/Floyd.c) |
+| 위상 정렬 | [C언어](https://github.com/techbless/algorithm-playground/blob/master/Algorithm/TopologicalSort.c) |
