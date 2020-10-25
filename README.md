@@ -9,22 +9,22 @@
 
 |  문제 이름  |  난이도  |  메모  |  풀이  |  문제 출처  |
 |:----------:|:--------:|:-----:|:------:|:------:|
-| ATM | 🟩 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11399.md) | [문제](https://www.acmicpc.net/problem/11399)
-| 연료 채우기 | 🟨 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1826.md) | [문제](https://www.acmicpc.net/problem/1826)
-| 로프 | 🟩 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2217.md) | [문제](https://www.acmicpc.net/problem/2217)
-| 전화번호 목록 | 🟨 | Trie(PrefixTree) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5052.md) | [문제](https://www.acmicpc.net/problem/5052)
-| 포도주 시식 | 🟨 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2156.md) | [문제](https://www.acmicpc.net/problem/2156)
-| 알약 | 🟥 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ4811.md) | [문제](https://www.acmicpc.net/problem/4811)
-| 쇠막대기 | 🟩 | 자료구조(스택) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10799.md) | [문제](https://www.acmicpc.net/problem/10799)
-| 나무 자르기 | 🟩 | 이진 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2805.md) | [문제](https://www.acmicpc.net/problem/2805)
-| 강의실 배정 | 🟩 | 그리디 알고리즘, 자료구조(우선순위 큐) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11000.md) | [문제](https://www.acmicpc.net/problem/11000)
-| 최소 스패닝 트리 | 🟨 | Kruskal 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1197.md) | [문제](https://www.acmicpc.net/problem/1197)
-| 숫자 정사각형 | 🟩 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1051.md) | [문제](https://www.acmicpc.net/problem/1051)
+| ATM | 🟩 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11399.md) | [문제](https://www.acmicpc.net/problem/11399) |
+| 연료 채우기 | 🟨 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1826.md) | [문제](https://www.acmicpc.net/problem/1826) |
+| 로프 | 🟩 | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2217.md) | [문제](https://www.acmicpc.net/problem/2217) |
+| 전화번호 목록 | 🟨 | Trie(PrefixTree) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5052.md) | [문제](https://www.acmicpc.net/problem/5052) |
+| 포도주 시식 | 🟨 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2156.md) | [문제](https://www.acmicpc.net/problem/2156) |
+| 알약 | 🟥 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ4811.md) | [문제](https://www.acmicpc.net/problem/4811) |
+| 쇠막대기 | 🟩 | 자료구조(스택) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10799.md) | [문제](https://www.acmicpc.net/problem/10799) |
+| 나무 자르기 | 🟩 | 이진 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2805.md) | [문제](https://www.acmicpc.net/problem/2805) |
+| 강의실 배정 | 🟩 | 그리디 알고리즘, 자료구조(우선순위 큐) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11000.md) | [문제](https://www.acmicpc.net/problem/11000) |
+| 최소 스패닝 트리 | 🟨 | Kruskal 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1197.md) | [문제](https://www.acmicpc.net/problem/1197) |
+| 숫자 정사각형 | 🟩 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1051.md) | [문제](https://www.acmicpc.net/problem/1051) |
 | 파스타 | 🟥 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ5546.md) | [문제](https://www.acmicpc.net/problem/5546) |
-| 리모컨 | 🟨 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1107.md) | [문제](https://www.acmicpc.net/problem/1107)
+| 리모컨 | 🟨 | 브루트 포스 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1107.md) | [문제](https://www.acmicpc.net/problem/1107) |
 | 이중 우선순위 큐 | 🟩 | 자료구조(MULTI SET) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ7662.md) | [문제](https://www.acmicpc.net/problem/7662) |
 | 1로 만들기 | 🟩 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1463.md) | [문제](https://www.acmicpc.net/problem/1463) |
-
+| 맥주마시면서 걸어가기 | 🟨 | 그래프 이론 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ9205.md) | [문제](https://www.acmicpc.net/problem/9205) |
 
 ## 자료구조 & 알고리즘
 
