@@ -26,6 +26,8 @@
 | 1로 만들기 | 🟩 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1463.md) | [문제](https://www.acmicpc.net/problem/1463) |
 | 맥주마시면서 걸어가기 | 🟨 | 그래프 이론 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ9205.md) | [문제](https://www.acmicpc.net/problem/9205) |
 | 적록색약 | 🟩 | 깊이우선 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10026.md) | [문제](https://www.acmicpc.net/problem/10026) |
+| 제곱 ㄴㄴ 수| 🟥 | 에라토스테네스의 체 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1016.md) | [문제](https://www.acmicpc.net/problem/1016) |
+
 ## 자료구조 & 알고리즘
 
 | 이름 | 소스 코드 |
