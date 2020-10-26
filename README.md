@@ -28,6 +28,7 @@
 | 적록색약 | 🟩 | 깊이우선 탐색 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ10026.md) | [문제](https://www.acmicpc.net/problem/10026) |
 | 제곱 ㄴㄴ 수 | 🟥 | 에라토스테네스의 체 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1016.md) | [문제](https://www.acmicpc.net/problem/1016) |
 | RGB 거리 | 🟨 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1149.md) | [문제](https://www.acmicpc.net/problem/1149) |
+| 트리의 지름 | 🟨 | 그래프 이론 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1167.md) | [문제](https://www.acmicpc.net/problem/1167)
 
 ## 자료구조 & 알고리즘
 
