@@ -30,6 +30,7 @@
 | RGB 거리 | 🟨 | 다이나믹 프로그래밍 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1149.md) | [문제](https://www.acmicpc.net/problem/1149) |
 | 트리의 지름 | 🟨 | 그래프 이론 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1167.md) | [문제](https://www.acmicpc.net/problem/1167) |
 | 트리의 순회 | 🟥 | 분할 정복 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2263.md) | [문제](https://www.acmicpc.net/problem/2263) |
+| 서강 그라운드 | 🟨 | 프롤이드 와샬 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ14938.md) | [문제](https://www.acmicpc.net/problem/14938) |
 
 
 ## 자료구조 & 알고리즘
