@@ -7,7 +7,7 @@
 
 ## 푼 문제
 
-|  레벨  |  체감 난이도  |  문제 이름  |  메모  |  풀이  |
+|  레벨  |  체감  |  문제 이름  |  메모  |  풀이  |
 |:----------:|:-----:|:--------:|:------:|:------:|
 | <img src="https://static.solved.ac/tier_small/8.svg" height="18px"> | 🟩 | [ATM](https://www.acmicpc.net/problem/11399) | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ11399.md) |
 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"> | 🟨 | [연료 채우기](https://www.acmicpc.net/problem/1826) | 그리디 알고리즘 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1826.md) |
@@ -31,6 +31,9 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"> | 🟨 | [트리의 지름](https://www.acmicpc.net/problem/1167) | 그래프 이론 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1167.md) |
 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"> | 🟥 | [트리의 순회](https://www.acmicpc.net/problem/2263) | 분할 정복 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ2263.md) |
 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"> | 🟨 | [서강 그라운드](https://www.acmicpc.net/problem/14938) | 프롤이드 와샬 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ14938.md) |
+| <img src="https://static.solved.ac/tier_small/16.svg" height="18px"> | 🟨 | [큰 수 만들기](https://www.acmicpc.net/problem/16496) | 정렬 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ16496.md) |
+| <img src="https://static.solved.ac/tier_small/16.svg" height="18px"> | 🟥 | [히스토그램](https://www.acmicpc.net/problem/1725) | 분할 정복 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1725.md) |
+| <img src="https://static.solved.ac/tier_small/12.svg" height="18px"> | 🟨 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | 그래프 이론(탐색) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ3584.md) |
 
 
 ## 자료구조 & 알고리즘
