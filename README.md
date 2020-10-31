@@ -34,6 +34,7 @@
 | <img src="https://static.solved.ac/tier_small/16.svg" height="18px"> | 🟨 | [큰 수 만들기](https://www.acmicpc.net/problem/16496) | 정렬 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ16496.md) |
 | <img src="https://static.solved.ac/tier_small/16.svg" height="18px"> | 🟥 | [히스토그램](https://www.acmicpc.net/problem/1725) | 분할 정복 | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1725.md) |
 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"> | 🟨 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | 그래프 이론(탐색) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ3584.md) |
+| <img src="https://static.solved.ac/tier_small/15.svg" height="18px"> | 🟥 | [계단수](https://www.acmicpc.net/problem/1562) | 다이나믹 프로그래밍 (비트마스킹) | [C++](https://github.com/techbless/algorithm-playground/blob/master/challenges/BOJ1562.md) |
 
 
 ## 자료구조 & 알고리즘
